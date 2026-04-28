@@ -1,0 +1,137 @@
+[
+  {
+    "id": "p001",
+    "name": "Sophie la Girafe Teether",
+    "category": "Toys",
+    "price_aed": 120,
+    "min_age_months": 0,
+    "max_age_months": 24,
+    "description": "Classic natural rubber teething toy. Perfect for soothing baby's sore gums."
+  },
+  {
+    "id": "p002",
+    "name": "Baby Einstein Musical Toy",
+    "category": "Toys",
+    "price_aed": 85,
+    "min_age_months": 3,
+    "max_age_months": 36,
+    "description": "Portable musical toy with classical melodies and flashing lights."
+  },
+  {
+    "id": "p003",
+    "name": "Ergobaby Omni 360 Carrier",
+    "category": "Gear",
+    "price_aed": 750,
+    "min_age_months": 0,
+    "max_age_months": 48,
+    "description": "All-in-one ergonomic baby carrier for all carry positions."
+  },
+  {
+    "id": "p004",
+    "name": "Tommee Tippee Bottle Set",
+    "category": "Feeding",
+    "price_aed": 150,
+    "min_age_months": 0,
+    "max_age_months": 12,
+    "description": "Anti-colic newborn baby bottle starter set."
+  },
+  {
+    "id": "p005",
+    "name": "Munchkin Bath Toys Set",
+    "category": "Bath",
+    "price_aed": 65,
+    "min_age_months": 6,
+    "max_age_months": 60,
+    "description": "Set of 5 floating bath squirters for sensory play."
+  },
+  {
+    "id": "p006",
+    "name": "LEGO Duplo Number Train",
+    "category": "Toys",
+    "price_aed": 95,
+    "min_age_months": 18,
+    "max_age_months": 48,
+    "description": "Educational number train set with colorful bricks."
+  },
+  {
+    "id": "p007",
+    "name": "Maxi-Cosi Car Seat",
+    "category": "Gear",
+    "price_aed": 1200,
+    "min_age_months": 0,
+    "max_age_months": 15,
+    "description": "Ultra-safe infant car seat with side impact protection."
+  },
+  {
+    "id": "p008",
+    "name": "Organic Cotton Sleepsuit 3-Pack",
+    "category": "Clothing",
+    "price_aed": 180,
+    "min_age_months": 0,
+    "max_age_months": 12,
+    "description": "Soft, breathable organic cotton sleepsuits with built-in scratch mitts."
+  },
+  {
+    "id": "p009",
+    "name": "Skip Hop Playmat",
+    "category": "Toys",
+    "price_aed": 350,
+    "min_age_months": 0,
+    "max_age_months": 12,
+    "description": "Interactive activity gym with hanging toys and a tummy time pillow."
+  },
+  {
+    "id": "p010",
+    "name": "WaterWipes 12-Pack",
+    "category": "Care",
+    "price_aed": 210,
+    "min_age_months": 0,
+    "max_age_months": 120,
+    "description": "Pure baby wipes made with 99.9% water and a drop of fruit extract."
+  },
+  {
+    "id": "p011",
+    "name": "Medela Breast Pump",
+    "category": "Feeding",
+    "price_aed": 850,
+    "min_age_months": 0,
+    "max_age_months": 24,
+    "description": "Double electric breast pump with personalized pumping profiles."
+  },
+  {
+    "id": "p012",
+    "name": "Melissa & Doug Wooden Blocks",
+    "category": "Toys",
+    "price_aed": 140,
+    "min_age_months": 36,
+    "max_age_months": 96,
+    "description": "100-piece solid wood building block set in various shapes and colors."
+  },
+  {
+    "id": "p013",
+    "name": "Pampers Premium Care Diapers Size 3",
+    "category": "Care",
+    "price_aed": 110,
+    "min_age_months": 3,
+    "max_age_months": 12,
+    "description": "Silky soft diapers with highly absorbent core for ultimate skin protection."
+  },
+  {
+    "id": "p014",
+    "name": "Jellycat Bunny Plush",
+    "category": "Toys",
+    "price_aed": 135,
+    "min_age_months": 0,
+    "max_age_months": 120,
+    "description": "Extremely soft and cuddly bashful bunny plush toy."
+  },
+  {
+    "id": "p015",
+    "name": "Stokke Tripp Trapp High Chair",
+    "category": "Gear",
+    "price_aed": 1100,
+    "min_age_months": 6,
+    "max_age_months": 120,
+    "description": "Adjustable high chair that grows with the child into adulthood."
+  }
+]
