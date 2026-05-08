@@ -1,5 +1,17 @@
 # Mumzworld AI Gift Concierge 🎁
 
+**Track: A — AI Engineering Intern**
+
+**Candidate:** Shristi Rajpoot
+
+**Summary:** A bilingual AI agent that converts messy natural-language gift requests (e.g., *"thoughtful gift for a friend with a 6-month-old, under 200 AED"*) into a curated shortlist of 3 products with personalized reasoning in both English and Arabic. Built with a hybrid LLM + deterministic filtering architecture to guarantee zero hallucinations on price and age constraints.
+
+**🎥 Loom Walkthrough (3 min):** [Watch here — PASTE YOUR LOOM LINK](https://loom.com)
+
+**📦 GitHub Repo:** https://github.com/Shristirajpoot/mumzworld-ai-intern
+
+---
+
 An AI-native agent that turns natural language queries into structured, personalized gift recommendations for mothers and babies.
 
 ## 🚀 Setup & Run (Under 5 minutes)
@@ -12,8 +24,8 @@ An AI-native agent that turns natural language queries into structured, personal
 
 1. **Clone the repository and enter the directory**
    ```bash
-   git clone <your-repo-url>
-   cd mumzworld-gift-finder
+   git clone https://github.com/Shristirajpoot/mumzworld-ai-intern
+   cd mumzworld-ai-intern
    ```
 
 2. **Set up a virtual environment (Optional but recommended)**
