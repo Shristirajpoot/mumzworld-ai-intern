@@ -6,7 +6,7 @@
 
 **Summary:** A bilingual AI agent that converts messy natural-language gift requests (e.g., *"thoughtful gift for a friend with a 6-month-old, under 200 AED"*) into a curated shortlist of 3 products with personalized reasoning in both English and Arabic. Built with a hybrid LLM + deterministic filtering architecture to guarantee zero hallucinations on price and age constraints.
 
-**🎥 Loom Walkthrough (3 min):** [Watch here — PASTE YOUR LOOM LINK](https://loom.com)
+**🎥 Loom Walkthrough (3 min):** [Watch here](https://www.loom.com/share/0436897894a543fab38af48b34428760)
 
 **📦 GitHub Repo:** https://github.com/Shristirajpoot/mumzworld-ai-intern
 
